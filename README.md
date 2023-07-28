@@ -5,6 +5,8 @@
 </div>
 
 <h2>Tech Stack</h2>
+<div style="display:flex">
+  
 <img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=Javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-3766AB?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-3766AB?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -13,6 +15,7 @@
 <img src="https://img.shields.io/badge/Firebase-3766AB?style=flat-square&logo=Firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+</div>
 
 <div style="display:flex;margin-top:30px;align-items:center">
 
